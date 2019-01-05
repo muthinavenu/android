@@ -1,0 +1,7 @@
+<resources>
+
+    <item name="id_edit_text" type="id" />
+
+    <item name="id_submit_button" type="id" />
+
+</resources>

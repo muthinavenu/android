@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Layouts" >
+
+
+    <Button
+        android:id="@+id/Constraint"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Constraint Layout" />
+
+    <Button
+        android:id="@+id/Linear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Linear Layout" />
+
+    <Button
+        android:id="@+id/Linearhorztl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Linear Horizontal"/>
+
+    <Button
+        android:id="@+id/Relative"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Relative Layout" />
+
+    <Button
+        android:id="@+id/Table"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Table Layout" />
+
+    <Button
+        android:id="@+id/Frame"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Frame Layout" />
+
+    <Button
+        android:id="@+id/Absolute"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Absolute Layout" />
+
+
+</LinearLayout>
